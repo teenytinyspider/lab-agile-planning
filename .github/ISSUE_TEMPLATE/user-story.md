@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: This is default template to craete a new User Story
+about: This is default template to create a new User Story
 title: ''
 labels: ''
 assignees: ''
